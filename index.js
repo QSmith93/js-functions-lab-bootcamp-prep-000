@@ -10,8 +10,3 @@ function happyHolidayTo(holiday, name) {
   var name = "you"
   return `Happy ${holiday}, ${name}!`
 }
-
-
-var topic = "space";
-
-var conversation = `Let's talk about ${topic}.`;
